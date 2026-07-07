@@ -9,7 +9,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: #2563eb;
+  background: #08a799;
   color: white;
   padding: 15px 25px;
   border-radius: 8px;
@@ -24,14 +24,14 @@ body {
 
 .card {
   width: 250px;
-  background: white;
+  background: rgb(218, 208, 208);
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,.15);
 }
 
 .card button {
-  background: red;
+  background: rgb(225, 17, 2);
   color: white;
   border: none;
   padding: 8px 15px;

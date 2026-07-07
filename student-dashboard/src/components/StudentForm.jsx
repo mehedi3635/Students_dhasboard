@@ -1,5 +1,6 @@
 import {useState} from "react";
 
+
 function StudentForm({addStudent}){
 
     const [name,setName]=useState("");
@@ -72,7 +73,7 @@ function StudentForm({addStudent}){
 
             />
 
-            <button>
+            <button style={{background:"green",color:"white"}}>
 
                 Add Student
 
